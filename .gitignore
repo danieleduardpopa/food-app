@@ -1,3 +1,4 @@
+src/api/yelpKey.js
 node_modules/
 .expo/
 dist/
